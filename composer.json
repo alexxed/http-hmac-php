@@ -19,7 +19,7 @@
     },
     "suggest": {
         "guzzlehttp/guzzle": "^6.0",
-        "laminas/laminas-diactoros": "^1.8 || ^2.2",
+        "laminas/laminas-diactoros": "^1.8 || ^2.2 || ^ 3.3",
         "symfony/security": "^4.0 || ^5.0"
     },
     "require-dev": {
